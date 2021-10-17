@@ -40,8 +40,8 @@ export const GlobalStyles= createGlobalStyle`
                 min-height: 100vh;
 
                 code {
-                    font-family: Hasklig !important;
-                    font-size: 17.5px !important;
+                    font-family: Source Code Pro !important;
+                    font-size: 16.5px !important;
                     line-height: 26px !important;
 
                     @media screen and (max-width: 480px) {
