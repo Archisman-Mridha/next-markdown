@@ -15,7 +15,7 @@ export const Decorations: FC= ( ) => {
             </BlobsLayout>
             <GithubLinkLayout>
                 <FaGithub size= { 22 } />
-                <Link href= "/">Github</Link>
+                <Link href= "https://github.com/Archisman-Mridha/next-markdown">Github</Link>
             </GithubLinkLayout>
             <SideImageLayout>
                 <Image src= { SideImage } alt= "" />
